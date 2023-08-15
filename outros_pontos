@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outros Pontos Turísticos - Recife Antigo</title>
+    <style>
+        /* ... (estilos CSS) ... */
+        nav {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Voltar</a>
+    </nav>
+    <header>
+        <h1>Outros Pontos Turísticos - Recife Antigo</h1>
+    </header>
+    <main>
+        <h2>Ponte Maurício de Nassau</h2>
+        <img src="https://i.pinimg.com/736x/19/5a/c7/195ac783a1456b643cf79a0f30853ec5--nassau.jpg" alt="Ponte Maurício de Nassau">
+        <p>A Ponte Maurício de Nassau é um marco histórico que atravessa o Rio Capibaribe, ligando as partes norte e sul do Recife Antigo.</p>
+
+        <h2>Cais do Sertão</h2>
+        <img src="https://www.diariodepernambuco.com.br/static/app/noticia_127983242361/2019/11/26/811855/20191126155406496138e.jpg" alt="Cais do Sertão">
+        <p>O Cais do Sertão é um museu interativo que celebra a cultura e a história do sertão nordestino, proporcionando uma experiência imersiva.</p>
+    </main>
+    <footer>
+        <p>&copy; 2023 Pontos Turísticos Recife. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
