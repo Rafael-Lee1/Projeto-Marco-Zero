@@ -24,7 +24,7 @@
         <a href="#inicio">Início</a>
         <a href="#sobre">Sobre</a>
         <a href="#galeria">Galeria</a>
-        <a href="#contato">Contato</a>
+        <a href="outros_pontos.html">Outros Pontos</a>
     </nav>
     <header id="inicio">
         <h1>Marco Zero - Recife</h1>
