@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marco Zero - Recife</title>
+    <style>
+        /* ... (estilos CSS) ... */
+        nav {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="#inicio">Início</a>
+        <a href="#sobre">Sobre</a>
+        <a href="#galeria">Galeria</a>
+        <a href="#contato">Contato</a>
+    </nav>
+    <header id="inicio">
+        <h1>Marco Zero - Recife</h1>
+    </header>
+    <main>
+        <img src="https://www.diariodepernambuco.com.br/static/app/noticia_127983242361/2022/05/23/895374/20220523131756317737a.JPG
+" alt="Foto do Marco Zero">
+        <p>O Marco Zero é um dos pontos turísticos mais emblemáticos da cidade do Recife, localizado no Bairro do Recife. Este monumento histórico marca o início das medições de distância rodoviárias a partir da cidade.</p>
+        <p>Além de sua importância geográfica, o Marco Zero também é um local de encontro e lazer para os habitantes locais e visitantes. Com uma vista deslumbrante para o Porto do Recife e o mar, é um lugar perfeito para caminhadas relaxantes, apreciando a brisa marítima.</p>
+        <p><q>À noite, o Marco Zero se transforma em um cenário mágico com iluminação especial, destacando sua arquitetura e a grande roda gigante próxima.</q></p>
+        <p>Ao redor do monumento, há várias opções de restaurantes, bares e lojas de artesanato, tornando-o um <em>ponto de encontro animado e diversificado.</em></p>
+    </main>
+    <footer>
+        <p>&copy; 2023 Marco Zero Recife. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
